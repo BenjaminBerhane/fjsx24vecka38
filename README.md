@@ -45,10 +45,10 @@ clubs: &clubs;
 ## Produktkomponent profilläge
 Produktkomponent i porträttläge.
 
-![produktkomponent-porträtt](/8_product_component_portrait/screen.png)
+![produktkomponent-porträtt](/8_product-component-portrait/screen.png)
 
 
 ## Produktkomponent landskapsläge
 Produktkomponent i landskapsläge.
 
-![produktkomponent-landskap](/8_product_component_landscape/screen.png)
+![produktkomponent-landskap](/9_product-component-landscape/screen.png)
