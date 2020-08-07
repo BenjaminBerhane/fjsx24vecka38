@@ -26,7 +26,7 @@ Skapa ett kort med ett coolt citat och pager med 3 alternativ längst ner. Gör 
 ![card-pager](/5_card-with-pager/screen.png)
 
 ## Profilkort
-Skapa en enkel profil-komponent.
+Skapa en enkel profil-komponent med ex. [Margaret Hamilton](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Margaret_Hamilton_1995.jpg/571px-Margaret_Hamilton_1995.jpg).
 
 ![profile-card](/6_profile-card/screen.png)
 
