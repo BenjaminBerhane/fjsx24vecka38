@@ -1,5 +1,5 @@
+![Flexbox Bootcamp](poster.png)
 # Flexbox Bootcamp
-### - 9 awesome flexbox erxercises
 
 ## Menu Easy
 En enkel flexbox-meny där alternativen fördelas jämnt över bredden.
