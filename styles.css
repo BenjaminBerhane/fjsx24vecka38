@@ -1,0 +1,40 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 20px;
+  margin: 0;
+}
+
+.container {
+  background-color: blue;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 100px 200px;
+  /* grid-gap: ; */
+  gap: 20px;
+  grid-template-areas:
+    "header header header"
+    "sidebar content content";
+
+  /* grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: column; */
+}
+
+.header {
+  background-color: yellow;
+  grid-area: header;
+}
+
+.sidebar {
+  background-color: green;
+  grid-area: sidebar;
+}
+
+.content {
+  background-color: red;
+  grid-area: content;
+}
+
+.footer {
+  background-color: purple;
+  /* grid-area: footer; */
+}
