@@ -1,0 +1,42 @@
+/* <!-- CODE ALONG, INTE DAGENS ÖVNING START--> */
+
+/* body { */
+/* background-color: black; */
+/* color: #333333; */
+/* color: #cccccc; */
+/* } */
+
+/* p { */
+/* font-size: 14px; */
+/* font-size: 1rem; */
+/* } */
+
+/* .secondP { */
+/* font-size: 14px; */
+/* font-size: 1rem; */
+/* } */
+/* <!-- CODE ALONG, INTE DAGENS ÖVNING SLUT--> */
+-----------------------------------
+
+/* <!-- DAGENS ÖVNING START --> */
+
+/* style.css */
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-size: 1rem;
+}
+
+button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 2px solid #000;
+}
+
+/* <!-- DAGENS ÖVNING SLUT --> */
